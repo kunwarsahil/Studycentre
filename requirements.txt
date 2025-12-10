@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai
+requests
+pdfplumber
+python-docx
+eml-parser
+python-dotenv
+sqlalchemy
+python-dateutil
